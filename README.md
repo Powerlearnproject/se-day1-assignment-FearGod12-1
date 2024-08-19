@@ -4,7 +4,14 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+what software engineering is and its importance:
+
+Software engineering is the systematic application of engineering principles to design, develop, test, and maintain software systems. It involves applying scientific and practical knowledge to create reliable, efficient, and scalable software solutions.
+Importance in the technology industry:
+
+Enables creation of complex software systems that power modern technology
+Ensures software quality, reliability, and maintainability
+ImprovExplain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is the systematic application of engineering principles to design, develop, test, and maintain software systems. It involves applying scientific and practical knowledge to create reliable, efficient, and scalable software solutions.
 Importance in the technology industry:
@@ -19,14 +26,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 I'd be happy to provide answers to those questions about software engineering. I'll address each one in turn:
 
-What software engineering is and its importance:
-
-Software engineering is the systematic application of engineering principles to design, develop, test, and maintain software systems. It involves applying scientific and practical knowledge to create reliable, efficient, and scalable software solutions.
-Importance in the technology industry:
-
-Enables creation of complex software systems that power modern technology
-Ensures software quality, reliability, and maintainability
-Improves efficiency and reduces costs in software development
+Whaes efficiency and reduces costs in software development
 Facilitates innovation and advancement of technology products and services
 Provides structured approaches to manage large-scale software projects
 
